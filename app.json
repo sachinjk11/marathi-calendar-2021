@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "calendar2021",
+    "slug": "calendar2021",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.healthybrain.marathi.calendar2021",
+      "versionCode": 1,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-1426929393334020~9227664318"
+      }
+    }
+  }
+}
